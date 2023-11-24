@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 - IntellijIDEA
 - GIT
 - Postman
-- Jira
+- JMeter
+- Chrome DevTools
 - SQL
 - Selenium
 - Selenide
