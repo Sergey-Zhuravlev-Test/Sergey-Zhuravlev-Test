@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Контакты
 
-- e-mail - sergeyzhuravlev7@gmail.com
+- e-mail - zhuravlevsergey7@gmail.com
 - telegram - https://t.me/serge_nm
 
 ## Что умею
